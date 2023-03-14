@@ -135,7 +135,7 @@ form button:hover {
 }
 
 input:focus, textarea:focus{
-    outline-color: #DA70D6;
+    outline-color: #d49dd2;
 }
 
 footer {
